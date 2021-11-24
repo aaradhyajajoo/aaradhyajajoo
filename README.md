@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Advanced C Programming, Object Oriented Programming in Python. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo&count_private=true)
 
 ![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo&show_icons=true&theme=radical&count_private=true)
 
