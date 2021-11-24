@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo&show_icons=true&theme=radical&count_private=true)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaradhyajajoo&layout=compact)](https://github.com/aaradhyajajoo/github-readme-stats)
