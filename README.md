@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+🌱 I’m currently pursuing Computer Engineering at Purdue University. 
 🔭 I’m currently working on Advanced C Programming, Object Oriented Programming in Python. 
 📫 How to reach me: https://www.linkedin.com/in/aaradhyajajoo/
 
