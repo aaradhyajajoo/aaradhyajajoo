@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on Advanced C Programming, Object Oriented Programming in Python. 
+📫 How to reach me: https://www.linkedin.com/in/aaradhyajajoo/
 
 
 ![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo&show_icons=true&theme=radical&count_private=true)
