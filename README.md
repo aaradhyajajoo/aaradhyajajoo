@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I’m currently pursuing Computer Engineering at Purdue University. \n
-🔭 I’m currently working on Advanced C Programming, Object Oriented Programming in Python. \n
-📫 How to reach me: https://www.linkedin.com/in/aaradhyajajoo/  \n
+  1. 🌱 I’m currently pursuing Computer Engineering at Purdue University. 
+  2. 🔭 I’m currently working on Advanced C Programming, Object Oriented Programming in Python. 
+  3. 📫 How to reach me: https://www.linkedin.com/in/aaradhyajajoo/  
 
 
 ![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo&show_icons=true&theme=radical&count_private=true)
