@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo)](https://github.com/aaradhyajajoo/github-readme-stats)
-
 ![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo&count_private=true)
