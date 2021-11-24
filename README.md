@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo&count_private=true)
+
+![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhyajajoo&show_icons=true&theme=radical&count_private=true)
+
