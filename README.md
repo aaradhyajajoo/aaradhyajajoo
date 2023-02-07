@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
   1. 🌱 I’m currently pursuing Computer Engineering at Purdue University. 
-  2. 🔭 I’m currently working on Advanced C Programming, Object Oriented Programming in Python. 
+  2. 🔭 I’m currently working on Operating Systems, Artificial Intelligence in Python, and Software Engineering. 
   3. 📫 How to reach me: https://www.linkedin.com/in/aaradhyajajoo/  
 
 
